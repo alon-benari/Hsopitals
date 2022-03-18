@@ -1,0 +1,11 @@
+Hospitals:https://hifld-geoplatform.opendata.arcgis.com/datasets/urgent-care-facilities?geometry=-19.002%2C-9.367%2C155.021%2C74.330
+Nursing Homes: https://hifld-geoplatform.opendata.arcgis.com/datasets/nursing-homes/data?selectedAttribute=EXCESS_BED
+hospitals general :https://www.kaggle.com/cms/hospital-general-information
+
+Hospitals in india:https://www.kaggle.com/krrai77/covid19-india-hospital-data
+ICU beds in USA:https://www.kaggle.com/jaimeblasco/icu-beds-by-county-in-the-us
+
+Hospitals in India: https://www.kaggle.com/dheerajmpai/hospitals-and-beds-in-india
+
+Open data DC  hospital information:https://opendata.dc.gov/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data
+
